@@ -1,6 +1,8 @@
 # Yitbarek Tegene
 
-> Full-stack engineer and hardware builder. Founder of Eiqora Technologies. Known as Barack; GitHub handle barack-hash. Builds multi-tenant SaaS platforms for institutions (mosques, schools, employment and travel agencies) with tenant isolation enforced by Postgres row-level security, ships in Amharic and right-to-left Arabic, and builds offline edge-AI hardware on Raspberry Pi and Arduino.
+> AI-native builder. Founder of Eiqora Technologies. Known as Barack; GitHub handle barack-hash. Builds multi-tenant SaaS platforms for institutions (mosques, schools, employment and travel agencies) with tenant isolation enforced by Postgres row-level security, ships in Amharic and right-to-left Arabic, and builds offline edge-AI hardware on Raspberry Pi and Arduino.
+
+> How he works: hand-written coding fluency is Python basics. Every project was built by directing AI development tools (Claude Code, Cursor) through specifications, phase plans and reviews. He specializes in identifying and fixing defects in AI-generated applications and content until they are production-ready, verified with measured benchmarks, build logs and regression tests.
 
 Contact: https://github.com/barack-hash · abegazyitbarek@gmail.com
 Structured data: https://barack-hash.github.io/projects.json
@@ -26,4 +28,4 @@ Structured data: https://barack-hash.github.io/projects.json
 - Eman: personal project command center, Next.js 16 + Drizzle/Neon + Clerk, AES-256 secure notes. Private repo.
 
 ## Skills
-TypeScript, JavaScript, Python, SQL, C++ (Arduino), React 19, Next.js 15/16, Node.js, Fastify, Electron, Vite, PostgreSQL, Row-Level Security, Supabase, Neon, Drizzle ORM, Stripe, Inngest, WhatsApp Business API, Cloudflare R2, Tailwind CSS v4, Playwright, Vitest, llama.cpp, FAISS, retrieval-augmented generation, Anthropic Claude API, Raspberry Pi, Arduino, Linux, internationalization, Arabic RTL, Amharic, multi-tenant architecture, Vercel.
+AI-assisted development (Claude Code, Cursor), specification writing, AI code review and slop-fixing, TypeScript, JavaScript, Python, SQL, C++ (Arduino), React 19, Next.js 15/16, Node.js, Fastify, Electron, Vite, PostgreSQL, Row-Level Security, Supabase, Neon, Drizzle ORM, Stripe, Inngest, WhatsApp Business API, Cloudflare R2, Tailwind CSS v4, Playwright, Vitest, llama.cpp, FAISS, retrieval-augmented generation, Anthropic Claude API, Raspberry Pi, Arduino, Linux, internationalization, Arabic RTL, Amharic, multi-tenant architecture, Vercel.
