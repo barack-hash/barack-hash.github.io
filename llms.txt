@@ -8,7 +8,7 @@ Contact: https://github.com/barack-hash · abegazyitbarek@gmail.com
 Structured data: https://barack-hash.github.io/projects.json
 
 ## Founder
-- Eiqora Technologies (https://eiqora.com): per-client software platforms for mission-driven institutions. Next.js 16, Supabase, schema-per-client. ~204 routes, 93 migrations.
+- Eiqora Technologies (https://eiqora.com): per-client software platforms for community institutions. Next.js 16, Supabase, schema-per-client. ~204 routes, 93 migrations.
 - BIC Masjid Platform (https://bic.eiqora.com): live masjid platform under Eiqora. Member app, madrasa LMS, imam console. 91 routes.
 
 ## Production platforms (own projects)
