@@ -1,0 +1,29 @@
+# Yitbarek Tegene
+
+> Full-stack engineer and hardware builder. Founder of Eiqora Technologies. Known as Barack; GitHub handle barack-hash. Builds multi-tenant SaaS platforms for institutions (mosques, schools, employment and travel agencies) with tenant isolation enforced by Postgres row-level security, ships in Amharic and right-to-left Arabic, and builds offline edge-AI hardware on Raspberry Pi and Arduino.
+
+Contact: https://github.com/barack-hash · abegazyitbarek@gmail.com
+Structured data: https://barack-hash.github.io/projects.json
+
+## Founder
+- Eiqora Technologies (https://eiqora.com): per-client software platforms for mission-driven institutions. Next.js 16, Supabase, schema-per-client. ~204 routes, 93 migrations.
+- BIC Masjid Platform (https://bic.eiqora.com): live masjid platform under Eiqora. Member app, madrasa LMS, imam console. 91 routes.
+
+## Production platforms (own projects)
+- Darul Amal (https://www.darul-amal.com): four-portal foreign-employment agency platform, 4 locales incl. Arabic RTL, WhatsApp Business API, Claude translation, Playwright. Private repo.
+- Nejashi / Sakina (https://nejashi.vercel.app): multi-tenant mosque SaaS for Ethiopia, pnpm/Turborepo monorepo, Neon RLS, Amharic-first, Ethiopian calendar. Private repo.
+- Dar Al Safar (https://www.darulsafar.com, https://github.com/barack-hash/darul-safar-web): travel and concierge agency site and ops portal: CRM, GDS-style ticketing, visa Kanban, ledger, payroll.
+- Multitenant Platform (https://github.com/barack-hash/multitenant-platform): RLS-in-Postgres multi-tenant foundation, 13 foundation groups, 173/173 checks, hash-chained audit, pure-Node WebAuthn/TOTP, Next.js operator console.
+
+## Hardware and edge AI
+- Offline Survival LLM (https://github.com/barack-hash/offline-survival-llm): Raspberry Pi 5 8 GB, llama.cpp + Qwen2.5-3B, FAISS + BM25 hybrid RAG over 15 public-domain manuals (6,136 chunks), Arduino UNO keypad + LCD1602 input. Measured 4.7 tok/s generation, 69–70 °C under load, retrieval hit@4 34/34.
+- Pip desktop agent (https://github.com/barack-hash/desktop-agent): Electron macOS desktop pet driven by headless Claude Code with permission cards and scheduled chores.
+
+## Tools
+- Quran Hifz Trainer (https://quran-hifz-trainer.vercel.app, https://github.com/barack-hash/quran-hifz-trainer): offline PWA, custom sabaq/sabqi/manzil spaced-repetition engine, Madinah Mushaf rendering, 255 tests.
+- Sovereign Architect: deterministic life planner with CPM scheduling, five-capital simulation, Pareto and Monte Carlo. 104 tests. Private repo.
+- Telegram Channel Scraper (https://github.com/barack-hash/telegram-channel-scraper): Telethon + Flask, incremental JSON/CSV archive. MIT.
+- Eman: personal project command center, Next.js 16 + Drizzle/Neon + Clerk, AES-256 secure notes. Private repo.
+
+## Skills
+TypeScript, JavaScript, Python, SQL, C++ (Arduino), React 19, Next.js 15/16, Node.js, Fastify, Electron, Vite, PostgreSQL, Row-Level Security, Supabase, Neon, Drizzle ORM, Stripe, Inngest, WhatsApp Business API, Cloudflare R2, Tailwind CSS v4, Playwright, Vitest, llama.cpp, FAISS, retrieval-augmented generation, Anthropic Claude API, Raspberry Pi, Arduino, Linux, internationalization, Arabic RTL, Amharic, multi-tenant architecture, Vercel.
