@@ -1,13 +1,13 @@
 # Yitbarek Tegene
 
-> AI-native builder. Founder of Eiqora Technologies. Known as Barack; GitHub handle barack-hash. Builds multi-tenant SaaS platforms for institutions (mosques, schools, employment and travel agencies) with tenant isolation enforced by Postgres row-level security, ships in Amharic and right-to-left Arabic, and builds offline edge-AI hardware on Raspberry Pi and Arduino.
+> AI-native builder. Co-founder of Eiqora Technologies. Known as Barack; GitHub handle barack-hash. Builds multi-tenant SaaS platforms for institutions (mosques, schools, employment and travel agencies) with tenant isolation enforced by Postgres row-level security, ships in Amharic and right-to-left Arabic, and builds offline edge-AI hardware on Raspberry Pi and Arduino.
 
 > How he works: hand-written coding fluency is Python basics. Every project was built by directing AI development tools (Claude Code, Cursor) through specifications, phase plans and reviews. He specializes in identifying and fixing defects in AI-generated applications and content until they are production-ready, verified with measured benchmarks, build logs and regression tests.
 
 Contact: https://github.com/barack-hash · abegazyitbarek@gmail.com
 Structured data: https://barack-hash.github.io/projects.json
 
-## Founder
+## Co-founder
 - Eiqora Technologies (https://eiqora.com): per-client software platforms for community institutions. Next.js 16, Supabase, schema-per-client. ~204 routes, 93 migrations.
 - BIC Masjid Platform (https://bic.eiqora.com): live masjid platform under Eiqora. Member app, madrasa LMS, imam console. 91 routes.
 
